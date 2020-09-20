@@ -1,0 +1,13 @@
+<ResourceDictionary
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="clr-namespace:Gui.Controls">
+    <Style x:Key="MediumButton">
+        <Setter Property="Control.Width" Value="45" />
+        <Setter Property="Control.Height" Value="45" />
+    </Style>
+    <Style x:Key="MediumIcon">
+        <Setter Property="Control.Width" Value="25" />
+        <Setter Property="Control.Height" Value="25" />
+    </Style>
+</ResourceDictionary>
